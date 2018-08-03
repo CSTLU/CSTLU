@@ -1,10 +1,10 @@
-title: Starter Template
-author: Panoramedia
-email: panoramedia@gmail.com
+title: Computer Science - Thang Long University
+author: thangdn
+email: thangdn.tlu@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A Site Starter Materialize Templates for Jekyll
+  A Site for Mathematics and Informatics students at Thang Long University.
 
-twitter_username: macrod68
+twitter_username: cstlu
 github_username:  cstlu
 
 sass:
